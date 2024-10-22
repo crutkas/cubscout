@@ -3,11 +3,11 @@
 ## Bobcat Tiger - Character & Leadership
 https://www.scouting.org/cub-scout-adventures/team-tiger/
 
-1. []()
-2. []()
+1. [A Time to Talk – A Time to Listen](https://www.scouting.org/cub-scout-activities/a-time-to-talk-a-time-to-listen/)
+2. [Tiger Oath and Law Puzzle](https://www.scouting.org/cub-scout-activities/tiger-oath-and-law-puzzle/)
 3. []()
 4. []()
-5. []()
+5. [Do Your Best Handbook Activity](https://www.scouting.org/cub-scout-activities/do-your-best-handbook-activity/)
 6. [Child Abuse Protection Review Tiger](https://www.scouting.org/cub-scout-activities/child-abuse-protection-review-tiger/) - Adult + Cub scout
 
 ## Tigers in the Wild - Outdoors
