@@ -63,4 +63,10 @@ https://www.scouting.org/cub-scout-adventures/rolling-tigers/
 4. [Simon Says – Turn Left, Turn Right](https://www.scouting.org/cub-scout-activities/simon-says-turn-left-turn-right/)
 5. [I Want To Ride My Bicycle!](https://www.scouting.org/cub-scout-activities/i-want-to-ride-my-bicycle/)
 
-## REQUIRED - Elective
+## TBD REQUIRED - Elective
+URL_TBD
+
+1. []()
+2. []()
+3. []()
+4. []()
