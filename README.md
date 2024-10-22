@@ -1,4 +1,6 @@
-# cub scouts
+# Tiger Den - Cub scouts
+
+This is our activity guide for the group.  Still working on getting rest of the activities planned out!
 
 ## Bobcat Tiger - Character & Leadership
 https://www.scouting.org/cub-scout-adventures/team-tiger/
