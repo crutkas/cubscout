@@ -8,7 +8,7 @@ https://www.scouting.org/cub-scout-adventures/team-tiger/
 3. []()
 4. []()
 5. []()
-6. [Child Abuse Protection Review Tiger]()
+6. [Child Abuse Protection Review Tiger](https://www.scouting.org/cub-scout-activities/child-abuse-protection-review-tiger/) - Adult + Cub scout
 
 ## Tigers in the Wild - Outdoors
 https://www.scouting.org/cub-scout-adventures/tigers-in-the-wild/
