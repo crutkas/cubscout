@@ -10,7 +10,7 @@ https://www.scouting.org/cub-scout-adventures/team-tiger/
 3. [Tiger Scout Law Bingo](https://www.scouting.org/cub-scout-activities/tiger-scout-law-bingo/) - [Print Bingo Card](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/tiger/Tiger%20Bobcat%203%20Scout%20Law%20Bingo.pdf)
 4. []()
 5. [Do Your Best Handbook Activity](https://www.scouting.org/cub-scout-activities/do-your-best-handbook-activity/)
-6. [Child Abuse Protection Review Tiger](https://www.scouting.org/cub-scout-activities/child-abuse-protection-review-tiger/) - Adult + Cub scout
+6. **Done!** - [Child Abuse Protection Review Tiger](https://www.scouting.org/cub-scout-activities/child-abuse-protection-review-tiger/) - Adult + Cub scout
 
 ## Tigers in the Wild - Outdoors
 https://www.scouting.org/cub-scout-adventures/tigers-in-the-wild/
