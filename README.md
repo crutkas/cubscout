@@ -5,8 +5,8 @@ This is our activity guide for the group.  Still working on getting rest of the 
 ## Bobcat Tiger - Character & Leadership
 https://www.scouting.org/cub-scout-adventures/team-tiger/
 
-1. [A Time to Talk – A Time to Listen](https://www.scouting.org/cub-scout-activities/a-time-to-talk-a-time-to-listen/)
-2. [Tiger Oath and Law Puzzle](https://www.scouting.org/cub-scout-activities/tiger-oath-and-law-puzzle/)
+1. **Done!** - [A Time to Talk – A Time to Listen](https://www.scouting.org/cub-scout-activities/a-time-to-talk-a-time-to-listen/)
+2. **Done!** - [Tiger Oath and Law Puzzle](https://www.scouting.org/cub-scout-activities/tiger-oath-and-law-puzzle/)
 3. [Tiger Scout Law Bingo](https://www.scouting.org/cub-scout-activities/tiger-scout-law-bingo/) - [Print Bingo Card](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/tiger/Tiger%20Bobcat%203%20Scout%20Law%20Bingo.pdf)
 4. []()
 5. [Do Your Best Handbook Activity](https://www.scouting.org/cub-scout-activities/do-your-best-handbook-activity/)
@@ -19,7 +19,7 @@ https://www.scouting.org/cub-scout-adventures/tigers-in-the-wild/
 2. []()
 3. []()
 4. [My Favorite Animals](https://www.scouting.org/cub-scout-activities/my-favorite-animals/)
-5. [Pinecone Bird Feeder](https://www.scouting.org/cub-scout-activities/pinecone-bird-feeder/)
+5. **Done!** - [Pinecone Bird Feeder](https://www.scouting.org/cub-scout-activities/pinecone-bird-feeder/)
 
 ## Tiger Bites - Personal Fitness
 https://www.scouting.org/cub-scout-adventures/tiger-bites/
@@ -43,7 +43,7 @@ https://www.scouting.org/cub-scout-adventures/tigers-roar/
 1. []()
 2. []()
 3. []()
-4. [Emergency Whistle Testing](https://www.scouting.org/cub-scout-activities/emergency-whistle-testing/)
+4. **Done!** - [Emergency Whistle Testing](https://www.scouting.org/cub-scout-activities/emergency-whistle-testing/)
 
 
 ## Tiger Circles - Family & Reverence
