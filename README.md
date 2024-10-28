@@ -2,6 +2,17 @@
 
 This is our activity guide for the group.  Still working on getting rest of the activities planned out!
 
+## Dates for Tiger den
+- Nov 6th
+- Dec 4th
+- January 8th (2nd Wednesday) due to New Years Day
+   - Our den will do flag ceremony at Pack meetup!
+- Feb 12th (due to Pinewood Derby)
+- March 5th
+- April 2nd
+- May 7th
+- June 4th
+
 ## Bobcat Tiger - Character & Leadership
 https://www.scouting.org/cub-scout-adventures/team-tiger/
 
