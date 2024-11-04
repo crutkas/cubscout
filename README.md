@@ -1,9 +1,10 @@
-# Tiger Den - Cub scouts
+# Tiger Den - Cub scouts 2024
 
 This is our activity guide for the group.  Still working on getting rest of the activities planned out!
 
-## Dates for Tiger den
-- Nov 6th
+## Dates for Tiger den meetings
+- Oct 23rd - Clint's house
+- Nov 6th - Clint's house
 - Dec 4th
 - January 8th (2nd Wednesday) due to New Years Day
    - Our den will do flag ceremony at Pack meetup!
