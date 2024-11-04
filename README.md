@@ -15,7 +15,7 @@ This is our activity guide for the group.  Still working on getting rest of the 
 - June 4th
 
 ## Bobcat Tiger - Character & Leadership
-https://www.scouting.org/cub-scout-adventures/team-tiger/
+https://www.scouting.org/cub-scout-adventures/bobcat-tiger/
 
 1. **Done!** - [A Time to Talk – A Time to Listen](https://www.scouting.org/cub-scout-activities/a-time-to-talk-a-time-to-listen/)
 2. **Done!** - [Tiger Oath and Law Puzzle](https://www.scouting.org/cub-scout-activities/tiger-oath-and-law-puzzle/)
