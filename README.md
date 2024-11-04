@@ -5,8 +5,11 @@ This is our activity guide for the group.  Still working on getting rest of the 
 ## November Den meeting plan!
 - Start learning about the flag ceramony
 - Heads up for fundraising
-- [Bobcat Tiger - #3 Tiger Scout Law Bingo](https://www.scouting.org/cub-scout-activities/tiger-scout-law-bingo/) - [Print Bingo Card](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/tiger/Tiger%20Bobcat%203%20Scout%20Law%20Bingo.pdf)
-- [Tigers in the Wild - Is It a Cub Scout Essential?](https://www.scouting.org/cub-scout-activities/is-it-a-cub-scout-essential/)
+- [Bobcat Tiger #3 - Tiger Scout Law Bingo](https://www.scouting.org/cub-scout-activities/tiger-scout-law-bingo/) - [Print Bingo Card](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/tiger/Tiger%20Bobcat%203%20Scout%20Law%20Bingo.pdf)
+- [Bobcat Tiger #5 - Do Your Best Handbook Activity](https://www.scouting.org/cub-scout-activities/do-your-best-handbook-activity/)
+- [Tigers in the Wild #1 - Is It a Cub Scout Essential?](https://www.scouting.org/cub-scout-activities/is-it-a-cub-scout-essential/)
+- [Rolling Tigers #1 - The ABC’s of Bike Gear](https://www.scouting.org/cub-scout-activities/the-abcs-of-bike-gear/)
+- [Rolling Tigers #2 - Check My Bike Gear](https://www.scouting.org/cub-scout-activities/check-my-bike-gear/)
 - Start drawing out our pinewood derby cars!
 
 ## Dates for Tiger den meetings
@@ -30,7 +33,7 @@ https://www.scouting.org/cub-scout-adventures/bobcat-tiger/
 2. **Done!** - [Tiger Oath and Law Puzzle](https://www.scouting.org/cub-scout-activities/tiger-oath-and-law-puzzle/)
 3. **Nov Den Meeting** - [Tiger Scout Law Bingo](https://www.scouting.org/cub-scout-activities/tiger-scout-law-bingo/) - [Print Bingo Card](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/tiger/Tiger%20Bobcat%203%20Scout%20Law%20Bingo.pdf)
 4. [Tiger Simon Says](https://www.scouting.org/cub-scout-activities/tiger-simon-says/)
-5. [Do Your Best Handbook Activity](https://www.scouting.org/cub-scout-activities/do-your-best-handbook-activity/)
+5. **Nov Den Meeting** - [Do Your Best Handbook Activity](https://www.scouting.org/cub-scout-activities/do-your-best-handbook-activity/)
 6. **Done!** - [Child Abuse Protection Review Tiger](https://www.scouting.org/cub-scout-activities/child-abuse-protection-review-tiger/) - Adult + Cub scout
 
 ## Tigers in the Wild - Outdoors
@@ -46,7 +49,7 @@ https://www.scouting.org/cub-scout-adventures/tigers-in-the-wild/
 https://www.scouting.org/cub-scout-adventures/tiger-bites/
 
 1. **Dec Den Meeting** - [My Favorite Snack](https://www.scouting.org/cub-scout-activities/my-favorite-snack/)
-2. [Scout Oath and Law Hand Washing](https://www.scouting.org/cub-scout-activities/scout-oath-and-law-hand-washing/) - Adult + Cub scout
+2. **AT HOME** - [Scout Oath and Law Hand Washing](https://www.scouting.org/cub-scout-activities/scout-oath-and-law-hand-washing/) - Adult + Cub scout
 3. **Dec Den Meeting** - [Tiger Red Light Green Light](https://www.scouting.org/cub-scout-activities/tiger-red-light-green-light/)
 4. []()
 
@@ -78,8 +81,8 @@ https://www.scouting.org/cub-scout-adventures/tiger-circles/
 ## Rolling Tigers - Elective
 https://www.scouting.org/cub-scout-adventures/rolling-tigers/
 
-1. [The ABC’s of Bike Gear](https://www.scouting.org/cub-scout-activities/the-abcs-of-bike-gear/)
-2. [Check My Bike Gear](https://www.scouting.org/cub-scout-activities/check-my-bike-gear/)
+1.  **Nov Den Meeting** - [The ABC’s of Bike Gear](https://www.scouting.org/cub-scout-activities/the-abcs-of-bike-gear/)
+2.  **Nov Den Meeting** - [Check My Bike Gear](https://www.scouting.org/cub-scout-activities/check-my-bike-gear/)
 3. [When to Walk and When to Ride](https://www.scouting.org/cub-scout-activities/when-to-walk-and-when-to-ride/)
 4. [Simon Says – Turn Left, Turn Right](https://www.scouting.org/cub-scout-activities/simon-says-turn-left-turn-right/)
 5. [I Want To Ride My Bicycle!](https://www.scouting.org/cub-scout-activities/i-want-to-ride-my-bicycle/)
