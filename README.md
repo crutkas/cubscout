@@ -2,6 +2,8 @@
 
 This is our activity guide for the group.  Still working on getting rest of the activities planned out!
 
+[Cub Scout Pack 571 Calendar](https://cubpack571.org/pack-571-calendar)
+
 ## November Den meeting plan!
 - Start learning about the flag ceramony
 - Heads up for fundraising
