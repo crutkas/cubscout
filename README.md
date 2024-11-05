@@ -13,18 +13,18 @@ This is our activity guide for the group.  Still working on getting rest of the 
 - Start drawing out our pinewood derby cars!
 
 ## Dates for Tiger den meetings
-- Oct 23rd - Clint's house
-- Nov 6th - Clint's house
-- Dec 4th
-- January 8th (2nd Wednesday)
-   - due to New Years Day
-   - Our den will do flag ceremony at January Pack meetup!
-- Feb 12th (2nd Wednesday)
-   - due to Pinewood Derby
-- March 5th
-- April 2nd
-- May 7th
-- June 4th
+
+| When| Where | 
+| --- | --- | 
+| Oct 23rd | Clint's house |
+| Nov 6th | Clint's house |
+| Dec 4th |  |
+| January 8th (2nd Wednesday)</br> due to New Years Day</br>Our den will do flag ceremony at January Pack meetup! |  |
+| Feb 12th (2nd Wednesday)</br>due to Pinewood Derby |   |
+| March 5th |   |
+| April 2nd |   |
+| May 7th |   |
+| June 4th |   |
 
 ### note- i'll migrate below to tables for better status and readabilty. Soon as i added status and dates, it got hard to read.
 ## Bobcat Tiger - Character & Leadership
@@ -44,17 +44,11 @@ https://www.scouting.org/cub-scout-adventures/tigers-in-the-wild/
 
 | What | When | Den/Pack | Status |
 | --- | --- | --- | --- |
-| 1.  |  |  |  |
-| 2.  |  |  |  |
-| 3.  |  |  |  |
-| 4.  |  |  |  |
-| 5.  |  |  |  |
-
-1. **Nov Den Meeting** - [Is It a Cub Scout Essential?](https://www.scouting.org/cub-scout-activities/is-it-a-cub-scout-essential/)
-2. []()
-3. []()
-4. [My Favorite Animals](https://www.scouting.org/cub-scout-activities/my-favorite-animals/)
-5. **Done!** - [Pinecone Bird Feeder](https://www.scouting.org/cub-scout-activities/pinecone-bird-feeder/)
+| 1. [Is It a Cub Scout Essential?](https://www.scouting.org/cub-scout-activities/is-it-a-cub-scout-essential/) | Nov | Den |  |
+| 2. []() |  |  |  |
+| 3. []() |  |  |  |
+| 4. [My Favorite Animals](https://www.scouting.org/cub-scout-activities/my-favorite-animals/) |  |  |  |
+| 5. [Pinecone Bird Feeder](https://www.scouting.org/cub-scout-activities/pinecone-bird-feeder/) | Oct | Den | Done |
 
 ## Tiger Bites - Personal Fitness
 https://www.scouting.org/cub-scout-adventures/tiger-bites/
