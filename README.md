@@ -60,7 +60,7 @@ https://www.scouting.org/cub-scout-adventures/tiger-bites/
 | 1. [My Favorite Snack](https://www.scouting.org/cub-scout-activities/my-favorite-snack/) | Dec | Den |  |
 | 2. [Scout Oath and Law Hand Washing](https://www.scouting.org/cub-scout-activities/scout-oath-and-law-hand-washing/)  | At Home | Adult + Cub scout |  |
 | 3. [Tiger Red Light Green Light](https://www.scouting.org/cub-scout-activities/tiger-red-light-green-light/) | Dec | Den |  |
-| 4. []() |  |  |  |
+| 4. [Tiger Time to Sleep](https://www.scouting.org/cub-scout-activities/tiger-time-to-sleep/) | At Home | Adult + Cub scout |  |
 
 ## Team Tiger - Citizenship
 https://www.scouting.org/cub-scout-adventures/team-tiger/
