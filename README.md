@@ -28,7 +28,6 @@ This is our activity guide for the group.  Still working on getting rest of the 
 | May 7th |   |
 | June 4th |   |
 
-### note- i'll migrate below to tables for better status and readabilty. Soon as i added status and dates, it got hard to read.
 ## Bobcat Tiger - Character & Leadership
 https://www.scouting.org/cub-scout-adventures/bobcat-tiger/
 
