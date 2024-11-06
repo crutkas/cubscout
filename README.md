@@ -66,10 +66,10 @@ https://www.scouting.org/cub-scout-adventures/team-tiger/
 
 | What | When | Den/Pack | Status |
 | --- | --- | --- | --- |
-| 1. []() |  |  |  |
+| 1. [Tigers Play Kickball](https://www.scouting.org/cub-scout-activities/tigers-play-kickball/) |  |  | TBD pending on location |
 | 2. [Tiger Greeter](https://www.scouting.org/cub-scout-activities/tiger-greeter/) | Dec | Pack! |  |
-| 3. []() |  |  |  |
-| 4. []() |  |  |  |
+| 3. [Tiger Charades](https://www.scouting.org/cub-scout-activities/tiger-charades/) |  |  |  |
+| 4. [Board Game Collection](https://www.scouting.org/cub-scout-activities/board-game-collection/) | Dec | Den | Fire dept drop off for kids? |
 
 ## Tiger’s Roar - Personal Safety
 https://www.scouting.org/cub-scout-adventures/tigers-roar/
