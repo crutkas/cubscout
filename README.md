@@ -77,9 +77,9 @@ https://www.scouting.org/cub-scout-adventures/tigers-roar/
 
 | What | When | Den/Pack | Status |
 | --- | --- | --- | --- |
-| 1. []() |  |  |  |
-| 2. []() |  |  |  |
-| 3. []() |  |  |  |
+| 1. [Protect Yourself Rules Video Tiger](https://www.scouting.org/cub-scout-activities/protect-yourself-rules-video-tiger/) | At Home | Adult + Cub scout |  |
+| 2. [Shout, Run, Tell Relay](https://www.scouting.org/cub-scout-activities/shout-run-tell-relay/) |  |  |  |
+| 3. [Smart Phone Emergency Services](https://www.scouting.org/cub-scout-activities/smart-phone-emergency-services/) |  |  |  |
 | 4. [Emergency Whistle Testing](https://www.scouting.org/cub-scout-activities/emergency-whistle-testing/) | Oct | Den | Done |
 
 ## Tiger Circles - Family & Reverence
