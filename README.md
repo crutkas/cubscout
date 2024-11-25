@@ -9,7 +9,7 @@ This is our activity guide for the group.  Still working on getting rest of the 
 - [Tiger’s Roar - 3. Smart Phone Emergency Services](https://www.scouting.org/cub-scout-activities/smart-phone-emergency-services/)
 - [Tigers in the Wild - 4. My Favorite Animals](https://www.scouting.org/cub-scout-activities/my-favorite-animals/)
 - [Tiger Circles - 1. Tiger Holiday Drawing](https://www.scouting.org/cub-scout-activities/tiger-holiday-drawing/)
-- [Tiger Circles - 4. Tiger A Note of Kindness](https://www.scouting.org/cub-scout-activities/tiger-a-note-of-kindness/) 
+- [Tiger Circles - 3. Tiger A Note of Kindness](https://www.scouting.org/cub-scout-activities/tiger-a-note-of-kindness/) 
 - Get our Pinewood derby cars!
 
 ## Dates for Tiger den meetings
@@ -86,8 +86,7 @@ https://www.scouting.org/cub-scout-adventures/tiger-circles/
 | --- | --- | --- | --- |
 | 1. [Tiger Holiday Drawing](https://www.scouting.org/cub-scout-activities/tiger-holiday-drawing/) | Dec | Den |  |
 | 2. [Tiger Veterans Day](https://www.scouting.org/cub-scout-activities/tiger-veterans-day/) | Nov | School | Done! |
-| 3. []() |  |  |  |
-| 4. [Tiger A Note of Kindness](https://www.scouting.org/cub-scout-activities/tiger-a-note-of-kindness/) | Dec | Den |  |
+| 3. [Tiger A Note of Kindness](https://www.scouting.org/cub-scout-activities/tiger-a-note-of-kindness/) | Dec | Den |  |
 
 ## Rolling Tigers - Elective
 https://www.scouting.org/cub-scout-adventures/rolling-tigers/
