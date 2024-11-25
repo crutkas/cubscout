@@ -44,9 +44,9 @@ https://www.scouting.org/cub-scout-adventures/tigers-in-the-wild/
 | What | When | Den/Pack | Status |
 | --- | --- | --- | --- |
 | 1. [Is It a Cub Scout Essential?](https://www.scouting.org/cub-scout-activities/is-it-a-cub-scout-essential/) | Nov | Den | Done! |
-| 2. []() |  |  |  |
-| 3. []() |  |  |  |
-| 4. [My Favorite Animals](https://www.scouting.org/cub-scout-activities/my-favorite-animals/) | Dec | Done |  |
+| 2. [Outdoor Code Puzzle](https://www.scouting.org/cub-scout-activities/outdoor-code-puzzle/) | Feb | Den |  |
+| 3. [I Spy Natural or Manmade](https://www.scouting.org/cub-scout-activities/i-spy-natural-or-manmade/) - OUTSIDE | April | Den |  |
+| 4. [My Favorite Animals](https://www.scouting.org/cub-scout-activities/my-favorite-animals/) | Dec | Den |  |
 | 5. [Pinecone Bird Feeder](https://www.scouting.org/cub-scout-activities/pinecone-bird-feeder/) | Oct | Den | Done |
 
 ## Tiger Bites - Personal Fitness
