@@ -8,7 +8,7 @@ This is our activity guide for the group.  Still working on getting rest of the 
 - Prepare for the flag ceramony in January
 - [Tiger’s Roar - 3. Smart Phone Emergency Services](https://www.scouting.org/cub-scout-activities/smart-phone-emergency-services/)
 - [Tigers in the Wild - 4. My Favorite Animals](https://www.scouting.org/cub-scout-activities/my-favorite-animals/)
-- [Tiger Bites - 1. My Favorite Snack](https://www.scouting.org/cub-scout-activities/my-favorite-snack/)
+- [Tiger Circles - 1. Tiger Holiday Drawing](https://www.scouting.org/cub-scout-activities/tiger-holiday-drawing/)
 - [Tiger Circles - 4. Tiger A Note of Kindness](https://www.scouting.org/cub-scout-activities/tiger-a-note-of-kindness/) 
 - Get our Pinewood derby cars!
 
@@ -46,7 +46,7 @@ https://www.scouting.org/cub-scout-adventures/tigers-in-the-wild/
 | 1. [Is It a Cub Scout Essential?](https://www.scouting.org/cub-scout-activities/is-it-a-cub-scout-essential/) | Nov | Den | Done! |
 | 2. []() |  |  |  |
 | 3. []() |  |  |  |
-| 4. [My Favorite Animals](https://www.scouting.org/cub-scout-activities/my-favorite-animals/) |  |  |  |
+| 4. [My Favorite Animals](https://www.scouting.org/cub-scout-activities/my-favorite-animals/) | Dec | Done |  |
 | 5. [Pinecone Bird Feeder](https://www.scouting.org/cub-scout-activities/pinecone-bird-feeder/) | Oct | Den | Done |
 
 ## Tiger Bites - Personal Fitness
@@ -54,7 +54,7 @@ https://www.scouting.org/cub-scout-adventures/tiger-bites/
 
 | What | When | Den/Pack | Status |
 | --- | --- | --- | --- |
-| 1. [My Favorite Snack](https://www.scouting.org/cub-scout-activities/my-favorite-snack/) | Dec | Den |  |
+| 1. [My Favorite Snack](https://www.scouting.org/cub-scout-activities/my-favorite-snack/) | Jan | Den |  |
 | 2. [Scout Oath and Law Hand Washing](https://www.scouting.org/cub-scout-activities/scout-oath-and-law-hand-washing/)  | At Home | Adult + Cub scout | Done! |
 | 3. [Tiger Red Light Green Light](https://www.scouting.org/cub-scout-activities/tiger-red-light-green-light/) (Needs to space do!) | TBD | Den |  |
 | 4. [Tiger Time to Sleep](https://www.scouting.org/cub-scout-activities/tiger-time-to-sleep/) | At Home | Adult + Cub scout | Done! |
@@ -84,8 +84,8 @@ https://www.scouting.org/cub-scout-adventures/tiger-circles/
 
 | What | When | Den/Pack | Status |
 | --- | --- | --- | --- |
-| 1. []() |  |  |  |
-| 2. []() |  |  |  |
+| 1. [Tiger Holiday Drawing](https://www.scouting.org/cub-scout-activities/tiger-holiday-drawing/) | Dec | Den |  |
+| 2. [Tiger Veterans Day](https://www.scouting.org/cub-scout-activities/tiger-veterans-day/) | Nov | School | Done! |
 | 3. []() |  |  |  |
 | 4. [Tiger A Note of Kindness](https://www.scouting.org/cub-scout-activities/tiger-a-note-of-kindness/) | Dec | Den |  |
 
