@@ -99,12 +99,12 @@ https://www.scouting.org/cub-scout-adventures/rolling-tigers/
 | 4. [Simon Says – Turn Left, Turn Right](https://www.scouting.org/cub-scout-activities/simon-says-turn-left-turn-right/) |  |  |  |
 | 5. [I Want To Ride My Bicycle!](https://www.scouting.org/cub-scout-activities/i-want-to-ride-my-bicycle/) |  |  |  |
 
-## TBD REQUIRED - Elective
-URL_TBD
+## Tech All Around - Elective
+https://www.scouting.org/cub-scout-adventures/tech-all-around/
 
 | What | When | Den/Pack | Status |
 | --- | --- | --- | --- |
-| 1. []() |  |  |  |
-| 2. []() |  |  |  |
-| 3. []() |  |  |  |
-| 4. []() |  |  |  |
+| 1. [Technology at Home](https://www.scouting.org/cub-scout-activities/technology-at-home/) | Feb | Den |  |
+| 2. [The Way It Was](https://www.scouting.org/cub-scout-activities/the-way-it-was/) | Feb | Den |  |
+| 3. [Be Safe with Technology Tiger](https://www.scouting.org/cub-scout-activities/be-safe-with-technology-tiger/) [Needs handbook] | Feb | Den |  |
+| 4. [Smart and Safe with Technology](https://www.scouting.org/cub-scout-activities/smart-and-safe-with-technology/) | At Home | Adult + Cub scout |  |
