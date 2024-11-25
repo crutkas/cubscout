@@ -2,7 +2,8 @@
 
 This is our activity guide for the group.  Still working on getting rest of the activities planned out!
 
-[Cub Scout Pack 571 Calendar](https://cubpack571.org/pack-571-calendar)
+- [Cub Scout Pack 571 Calendar](https://cubpack571.org/pack-571-calendar)
+- [Microsoft volunteer matching for pack](https://microsoft.benevity.org/cause/840-B_5BXRW2RR27/project/2TXQUM5M3D)
 
 ## November Den meeting plan!
 - Prepare for the flag ceramony in January
