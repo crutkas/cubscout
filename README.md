@@ -19,7 +19,7 @@ This is our activity guide for the group.  Still working on getting rest of the 
 | --- | --- | 
 | Oct 23rd | Clint's house |
 | Nov 6th | Clint's house |
-| Dec 4th | Clint's house PENDING |
+| Dec 4th | Rachel Carson Elementary  |
 | January 8th (2nd Wednesday)</br>- due to New Years Day</br>- Our den will do flag ceremony at January Pack meetup! |  |
 | Feb 12th (2nd Wednesday)</br>- due to Pinewood Derby |   |
 | March 5th |   |
