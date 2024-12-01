@@ -11,7 +11,7 @@ This is our activity guide for the group.  Still working on getting rest of the 
 - [Tigers in the Wild - 4. My Favorite Animals](https://www.scouting.org/cub-scout-activities/my-favorite-animals/)
 - [Tiger Circles - 1. Tiger Holiday Drawing](https://www.scouting.org/cub-scout-activities/tiger-holiday-drawing/)
 - [Tiger Circles - 3. Tiger A Note of Kindness](https://www.scouting.org/cub-scout-activities/tiger-a-note-of-kindness/) 
-- Get our Pinewood derby cars!
+- Get our Pinewood derby cars!  [Pinewood derby template](https://github.com/crutkas/cubscout/blob/main/files/Pinewood_Derby_Standard_Wheelbase_Pattern.pdf)
 
 ## Dates for Tiger den meetings
 
