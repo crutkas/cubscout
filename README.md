@@ -5,7 +5,7 @@ This is our activity guide for the group.  Still working on getting rest of the 
 - [Cub Scout Pack 571 Calendar](https://cubpack571.org/pack-571-calendar)
 - [Microsoft volunteer matching for pack](https://microsoft.benevity.org/cause/840-B_5BXRW2RR27/project/2TXQUM5M3D)
 
-## November Den meeting plan!
+## December Den meeting plan!
 - Prepare for the flag ceramony in January
 - [Tiger’s Roar - 3. Smart Phone Emergency Services](https://www.scouting.org/cub-scout-activities/smart-phone-emergency-services/)
 - [Tigers in the Wild - 4. My Favorite Animals](https://www.scouting.org/cub-scout-activities/my-favorite-animals/)
