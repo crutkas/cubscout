@@ -46,9 +46,9 @@ https://www.scouting.org/cub-scout-adventures/tiger-bites/
 
 | What | When | Den/Pack | Status |
 | --- | --- | --- | --- |
-| **1. [My Favorite Snack](https://www.scouting.org/cub-scout-activities/my-favorite-snack/)** | Jan | Den |  |
+| **1. [My Favorite Snack](https://www.scouting.org/cub-scout-activities/my-favorite-snack/)** | Jan | Den | In Progress |
 | 2. [Scout Oath and Law Hand Washing](https://www.scouting.org/cub-scout-activities/scout-oath-and-law-hand-washing/)  | At Home | Adult + Cub scout | Done! |
-| **3. [Tiger Red Light Green Light](https://www.scouting.org/cub-scout-activities/tiger-red-light-green-light/)** | Jan | Den |  |
+| **3. [Tiger Red Light Green Light](https://www.scouting.org/cub-scout-activities/tiger-red-light-green-light/)** | Jan | Den | In Progress |
 | 4. [Tiger Time to Sleep](https://www.scouting.org/cub-scout-activities/tiger-time-to-sleep/) | At Home | Adult + Cub scout | Done! |
 
 ## Team Tiger - Citizenship
@@ -79,7 +79,7 @@ https://www.scouting.org/cub-scout-adventures/rolling-tigers/
 | 1. [The ABC’s of Bike Gear](https://www.scouting.org/cub-scout-activities/the-abcs-of-bike-gear/) | Nov | Den | Done |
 | 2. [Check My Bike Gear](https://www.scouting.org/cub-scout-activities/check-my-bike-gear/) | Nov | Den | Done |
 | 3. [When to Walk and When to Ride](https://www.scouting.org/cub-scout-activities/when-to-walk-and-when-to-ride/) |  | Den |  |
-| **4. [Simon Says – Turn Left, Turn Right](https://www.scouting.org/cub-scout-activities/simon-says-turn-left-turn-right/)** | Jan | Den |  |
+| **4. [Simon Says – Turn Left, Turn Right](https://www.scouting.org/cub-scout-activities/simon-says-turn-left-turn-right/)** | Jan | Den | In Progress |
 | 5. [I Want To Ride My Bicycle!](https://www.scouting.org/cub-scout-activities/i-want-to-ride-my-bicycle/) |  | Den |  |
 
 ## Tech All Around - Elective
@@ -88,7 +88,7 @@ https://www.scouting.org/cub-scout-adventures/tech-all-around/
 | What | When | Den/Pack | Status |
 | --- | --- | --- | --- |
 | 1. [Technology at Home](https://www.scouting.org/cub-scout-activities/technology-at-home/) | Feb | Den |  |
-| **2. [The Way It Was](https://www.scouting.org/cub-scout-activities/the-way-it-was/)** | Jan | Den |  |
+| **2. [The Way It Was](https://www.scouting.org/cub-scout-activities/the-way-it-was/)** | Jan | Den | In Progress |
 | 3. [Be Safe with Technology Tiger](https://www.scouting.org/cub-scout-activities/be-safe-with-technology-tiger/) [Needs handbook] | Feb | Den |  |
 | 4. [Smart and Safe with Technology](https://www.scouting.org/cub-scout-activities/smart-and-safe-with-technology/) | At Home | Adult + Cub scout |  |
 
