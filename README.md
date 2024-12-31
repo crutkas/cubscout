@@ -19,15 +19,15 @@ This is our activity guide for the group.  Still working on getting rest of the 
 | --- | --- | 
 | Oct 23rd | Clint's house |
 | Nov 6th | Clint's house |
-| Dec 4th | Rachel Carson Elementary  |
-| January 8th (2nd Wednesday)</br>- due to New Years Day</br>- Our den will do flag ceremony at January Pack meetup! |  |
-| Feb 12th (2nd Wednesday)</br>- due to Pinewood Derby |   |
-| March 5th |   |
-| April 2nd |   |
-| May 7th |   |
-| June 4th |   |
+| Dec 4th | Rachel Carson Elementary |
+| January 8th (2nd Wednesday)<br/>- Date shift due to New Years Day<br/>- Our den will do flag ceremony at January Pack meetup! | Rachel Carson Elementary |
+| Feb 12th (2nd Wednesday)<br/>- Date shift due to Pinewood Derby | Rachel Carson Elementary |
+| March 5th | Rachel Carson Elementary |
+| April 2nd | Rachel Carson Elementary |
+| May 7th | Rachel Carson Elementary |
+| June 4th | Rachel Carson Elementary |
 
-## Bobcat Tiger - Character & Leadership
+## Bobcat Tiger - Character & Leadership - DONE!
 https://www.scouting.org/cub-scout-adventures/bobcat-tiger/
 
 | What | When | Den/Pack | Status |
@@ -35,7 +35,7 @@ https://www.scouting.org/cub-scout-adventures/bobcat-tiger/
 | 1. [A Time to Talk – A Time to Listen](https://www.scouting.org/cub-scout-activities/a-time-to-talk-a-time-to-listen/) | October | Den |  Done! |
 | 2. [Tiger Oath and Law Puzzle](https://www.scouting.org/cub-scout-activities/tiger-oath-and-law-puzzle/) | Nov | Den | Done! | 
 | 3. [Tiger Scout Law Bingo](https://www.scouting.org/cub-scout-activities/tiger-scout-law-bingo/) - [Print Bingo Card](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/tiger/Tiger%20Bobcat%203%20Scout%20Law%20Bingo.pdf) | Nov | Den | Done! |
-| 4. [Tiger Simon Says](https://www.scouting.org/cub-scout-activities/tiger-simon-says/)  (Needs to space do!) | TBD | Den |  |
+| 4. [Tiger Simon Says](https://www.scouting.org/cub-scout-activities/tiger-simon-says/) | Dec | Den | Done! |
 | 5. [Do Your Best Handbook Activity](https://www.scouting.org/cub-scout-activities/do-your-best-handbook-activity/) | Nov | Den | Done! |
 | 6. [Child Abuse Protection Review Tiger](https://www.scouting.org/cub-scout-activities/child-abuse-protection-review-tiger/) | At Home | Adult + Cub scout | Done |
 
