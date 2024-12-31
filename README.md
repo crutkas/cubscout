@@ -5,17 +5,25 @@ This is our activity guide for the group.  Still working on getting rest of the 
 - [Cub Scout Pack 571 Calendar](https://cubpack571.org/pack-571-calendar)
 - [Microsoft volunteer matching for pack](https://microsoft.benevity.org/cause/840-B_5BXRW2RR27/project/2TXQUM5M3D)
 
-## January Den meeting plan!
+## January 2025 Den meeting plan!
 - Prepare for the flag ceramony in January
+- [Tiger Bites - 3. Tiger Red Light Green Light](https://www.scouting.org/cub-scout-activities/tiger-red-light-green-light/)
+- [Tiger Bites - 1. My Favorite Snack](https://www.scouting.org/cub-scout-activities/my-favorite-snack/)
+- [Tech All Around - 2. The Way It Was](https://www.scouting.org/cub-scout-activities/the-way-it-was/)
+- [Rolling Tigers - 4. Simon Says – Turn Left, Turn Right](https://www.scouting.org/cub-scout-activities/simon-says-turn-left-turn-right/)
 
-## Dates for Tiger den meetings
+## Things worth noting
+
+Pinewood Derby car turn in day is 
+
+# Dates for Tiger den meetings
 
 | When| Where | 
 | --- | --- | 
 | Oct 23rd | Clint's house |
 | Nov 6th | Clint's house |
 | Dec 4th | Rachel Carson Elementary |
-| Jan 8th (2nd Wednesday)<br/>- Date shift due to New Years Day<br/>- Our den will do flag ceremony at January Pack meetup! | Rachel Carson Elementary |
+| **Jan 8th (2nd Wednesday)<br/>- Date shift due to New Years Day**<br/>- Our den will do flag ceremony at January Pack meetup! | **Rachel Carson Elementary** |
 | Feb 12th (2nd Wednesday)<br/>- Date shift due to Pinewood Derby | Rachel Carson Elementary |
 | March 5th | Rachel Carson Elementary |
 | April 2nd | Rachel Carson Elementary |
@@ -38,9 +46,9 @@ https://www.scouting.org/cub-scout-adventures/tiger-bites/
 
 | What | When | Den/Pack | Status |
 | --- | --- | --- | --- |
-| 1. [My Favorite Snack](https://www.scouting.org/cub-scout-activities/my-favorite-snack/) | Jan | Den |  |
+| **1. [My Favorite Snack](https://www.scouting.org/cub-scout-activities/my-favorite-snack/)** | Jan | Den |  |
 | 2. [Scout Oath and Law Hand Washing](https://www.scouting.org/cub-scout-activities/scout-oath-and-law-hand-washing/)  | At Home | Adult + Cub scout | Done! |
-| 3. [Tiger Red Light Green Light](https://www.scouting.org/cub-scout-activities/tiger-red-light-green-light/) (Needs to space do!) | TBD | Den |  |
+| **3. [Tiger Red Light Green Light](https://www.scouting.org/cub-scout-activities/tiger-red-light-green-light/)** | Jan | Den |  |
 | 4. [Tiger Time to Sleep](https://www.scouting.org/cub-scout-activities/tiger-time-to-sleep/) | At Home | Adult + Cub scout | Done! |
 
 ## Team Tiger - Citizenship
@@ -50,7 +58,7 @@ https://www.scouting.org/cub-scout-adventures/team-tiger/
 | --- | --- | --- | --- |
 | 1. [Tigers Play Kickball](https://www.scouting.org/cub-scout-activities/tigers-play-kickball/) (Needs to space do!) | TBD | Den |  |
 | 2. [Tiger Greeter](https://www.scouting.org/cub-scout-activities/tiger-greeter/) | Dec | Pack | Done! |
-| 3. [Tiger Charades](https://www.scouting.org/cub-scout-activities/tiger-charades/) |  |  |  |
+| 3. [Tiger Charades](https://www.scouting.org/cub-scout-activities/tiger-charades/) |  | Den |  |
 | 4. [Board Game Collection](https://www.scouting.org/cub-scout-activities/board-game-collection/) | Dec | Den | Done! |
 
 ## Tiger’s Roar - Personal Safety
@@ -70,9 +78,9 @@ https://www.scouting.org/cub-scout-adventures/rolling-tigers/
 | --- | --- | --- | --- |
 | 1. [The ABC’s of Bike Gear](https://www.scouting.org/cub-scout-activities/the-abcs-of-bike-gear/) | Nov | Den | Done |
 | 2. [Check My Bike Gear](https://www.scouting.org/cub-scout-activities/check-my-bike-gear/) | Nov | Den | Done |
-| 3. [When to Walk and When to Ride](https://www.scouting.org/cub-scout-activities/when-to-walk-and-when-to-ride/) |  |  |  |
-| 4. [Simon Says – Turn Left, Turn Right](https://www.scouting.org/cub-scout-activities/simon-says-turn-left-turn-right/) |  |  |  |
-| 5. [I Want To Ride My Bicycle!](https://www.scouting.org/cub-scout-activities/i-want-to-ride-my-bicycle/) |  |  |  |
+| 3. [When to Walk and When to Ride](https://www.scouting.org/cub-scout-activities/when-to-walk-and-when-to-ride/) |  | Den |  |
+| **4. [Simon Says – Turn Left, Turn Right](https://www.scouting.org/cub-scout-activities/simon-says-turn-left-turn-right/)** | Jan | Den |  |
+| 5. [I Want To Ride My Bicycle!](https://www.scouting.org/cub-scout-activities/i-want-to-ride-my-bicycle/) |  | Den |  |
 
 ## Tech All Around - Elective
 https://www.scouting.org/cub-scout-adventures/tech-all-around/
@@ -80,11 +88,11 @@ https://www.scouting.org/cub-scout-adventures/tech-all-around/
 | What | When | Den/Pack | Status |
 | --- | --- | --- | --- |
 | 1. [Technology at Home](https://www.scouting.org/cub-scout-activities/technology-at-home/) | Feb | Den |  |
-| 2. [The Way It Was](https://www.scouting.org/cub-scout-activities/the-way-it-was/) | Feb | Den |  |
+| **2. [The Way It Was](https://www.scouting.org/cub-scout-activities/the-way-it-was/)** | Jan | Den |  |
 | 3. [Be Safe with Technology Tiger](https://www.scouting.org/cub-scout-activities/be-safe-with-technology-tiger/) [Needs handbook] | Feb | Den |  |
 | 4. [Smart and Safe with Technology](https://www.scouting.org/cub-scout-activities/smart-and-safe-with-technology/) | At Home | Adult + Cub scout |  |
 
-# Completed Adventures
+# Completed Adventures!!!
 
 ## Bobcat Tiger - Character & Leadership
 https://www.scouting.org/cub-scout-adventures/bobcat-tiger/
