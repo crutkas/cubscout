@@ -6,7 +6,7 @@ This is our activity guide for the group.  Still working on getting rest of the 
 - [Microsoft volunteer matching for pack](https://microsoft.benevity.org/cause/840-B_5BXRW2RR27/project/2TXQUM5M3D)
 
 ## January 2025 Den meeting plan!
-- Prepare for the flag ceramony in January
+- Prepare for the flag ceremony in January
 - [Tiger Bites - 3. Tiger Red Light Green Light](https://www.scouting.org/cub-scout-activities/tiger-red-light-green-light/)
 - [Tiger Bites - 1. My Favorite Snack](https://www.scouting.org/cub-scout-activities/my-favorite-snack/)
 - [Tech All Around - 2. The Way It Was](https://www.scouting.org/cub-scout-activities/the-way-it-was/)
