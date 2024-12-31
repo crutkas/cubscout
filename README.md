@@ -23,12 +23,12 @@ Pinewood Derby car turn in day is January 11th
 | Oct 23rd | Clint's house |
 | Nov 6th | Clint's house |
 | Dec 4th | Rachel Carson Elementary |
-| **Jan 8th (2nd Wednesday)<br/>- Date shift due to New Years Day**<br/>- Our den will do flag ceremony at January Pack meetup! | **Rachel Carson Elementary** |
-| Feb 12th (2nd Wednesday)<br/>- Date shift due to Pinewood Derby | Rachel Carson Elementary |
-| March 5th | Rachel Carson Elementary |
-| April 2nd | Rachel Carson Elementary |
-| May 7th | Rachel Carson Elementary |
-| June 4th | Rachel Carson Elementary |
+| **Jan 8th (2nd Wednesday) at 7pm<br/>- Date shift due to New Years Day**<br/>- Our den will do flag ceremony at January Pack meetup! | **Rachel Carson Elementary** |
+| Feb 12th (2nd Wednesday) at 7pm<br/>- Date shift due to Pinewood Derby | Rachel Carson Elementary |
+| March 5th at 7pm | Rachel Carson Elementary |
+| April 2nd at 7pm | Rachel Carson Elementary |
+| May 7th at 7pm | Rachel Carson Elementary |
+| June 4th at 7pm | Rachel Carson Elementary |
 
 ## Tigers in the Wild - Outdoors
 https://www.scouting.org/cub-scout-adventures/tigers-in-the-wild/
