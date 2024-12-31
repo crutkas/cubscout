@@ -5,13 +5,8 @@ This is our activity guide for the group.  Still working on getting rest of the 
 - [Cub Scout Pack 571 Calendar](https://cubpack571.org/pack-571-calendar)
 - [Microsoft volunteer matching for pack](https://microsoft.benevity.org/cause/840-B_5BXRW2RR27/project/2TXQUM5M3D)
 
-## December Den meeting plan!
+## January Den meeting plan!
 - Prepare for the flag ceramony in January
-- [Tiger’s Roar - 3. Smart Phone Emergency Services](https://www.scouting.org/cub-scout-activities/smart-phone-emergency-services/)
-- [Tigers in the Wild - 4. My Favorite Animals](https://www.scouting.org/cub-scout-activities/my-favorite-animals/)
-- [Tiger Circles - 1. Tiger Holiday Drawing](https://www.scouting.org/cub-scout-activities/tiger-holiday-drawing/)
-- [Tiger Circles - 3. Tiger A Note of Kindness](https://www.scouting.org/cub-scout-activities/tiger-a-note-of-kindness/) 
-- Get our Pinewood derby cars!  [Pinewood derby template](https://github.com/crutkas/cubscout/blob/main/files/Pinewood_Derby_Standard_Wheelbase_Pattern.pdf)
 
 ## Dates for Tiger den meetings
 
@@ -20,24 +15,12 @@ This is our activity guide for the group.  Still working on getting rest of the 
 | Oct 23rd | Clint's house |
 | Nov 6th | Clint's house |
 | Dec 4th | Rachel Carson Elementary |
-| January 8th (2nd Wednesday)<br/>- Date shift due to New Years Day<br/>- Our den will do flag ceremony at January Pack meetup! | Rachel Carson Elementary |
+| Jan 8th (2nd Wednesday)<br/>- Date shift due to New Years Day<br/>- Our den will do flag ceremony at January Pack meetup! | Rachel Carson Elementary |
 | Feb 12th (2nd Wednesday)<br/>- Date shift due to Pinewood Derby | Rachel Carson Elementary |
 | March 5th | Rachel Carson Elementary |
 | April 2nd | Rachel Carson Elementary |
 | May 7th | Rachel Carson Elementary |
 | June 4th | Rachel Carson Elementary |
-
-## Bobcat Tiger - Character & Leadership - DONE!
-https://www.scouting.org/cub-scout-adventures/bobcat-tiger/
-
-| What | When | Den/Pack | Status |
-| --- | --- | --- | --- |
-| 1. [A Time to Talk – A Time to Listen](https://www.scouting.org/cub-scout-activities/a-time-to-talk-a-time-to-listen/) | October | Den |  Done! |
-| 2. [Tiger Oath and Law Puzzle](https://www.scouting.org/cub-scout-activities/tiger-oath-and-law-puzzle/) | Nov | Den | Done! | 
-| 3. [Tiger Scout Law Bingo](https://www.scouting.org/cub-scout-activities/tiger-scout-law-bingo/) - [Print Bingo Card](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/tiger/Tiger%20Bobcat%203%20Scout%20Law%20Bingo.pdf) | Nov | Den | Done! |
-| 4. [Tiger Simon Says](https://www.scouting.org/cub-scout-activities/tiger-simon-says/) | Dec | Den | Done! |
-| 5. [Do Your Best Handbook Activity](https://www.scouting.org/cub-scout-activities/do-your-best-handbook-activity/) | Nov | Den | Done! |
-| 6. [Child Abuse Protection Review Tiger](https://www.scouting.org/cub-scout-activities/child-abuse-protection-review-tiger/) | At Home | Adult + Cub scout | Done |
 
 ## Tigers in the Wild - Outdoors
 https://www.scouting.org/cub-scout-adventures/tigers-in-the-wild/
@@ -47,8 +30,8 @@ https://www.scouting.org/cub-scout-adventures/tigers-in-the-wild/
 | 1. [Is It a Cub Scout Essential?](https://www.scouting.org/cub-scout-activities/is-it-a-cub-scout-essential/) | Nov | Den | Done! |
 | 2. [Outdoor Code Puzzle](https://www.scouting.org/cub-scout-activities/outdoor-code-puzzle/) | Feb | Den |  |
 | 3. [I Spy Natural or Manmade](https://www.scouting.org/cub-scout-activities/i-spy-natural-or-manmade/) - OUTSIDE | April | Den |  |
-| 4. [My Favorite Animals](https://www.scouting.org/cub-scout-activities/my-favorite-animals/) | Dec | Den |  |
-| 5. [Pinecone Bird Feeder](https://www.scouting.org/cub-scout-activities/pinecone-bird-feeder/) | Oct | Den | Done |
+| 4. [My Favorite Animals](https://www.scouting.org/cub-scout-activities/my-favorite-animals/) | Dec | Den | Done! |
+| 5. [Pinecone Bird Feeder](https://www.scouting.org/cub-scout-activities/pinecone-bird-feeder/) | Oct | Den | Done! |
 
 ## Tiger Bites - Personal Fitness
 https://www.scouting.org/cub-scout-adventures/tiger-bites/
@@ -66,9 +49,9 @@ https://www.scouting.org/cub-scout-adventures/team-tiger/
 | What | When | Den/Pack | Status |
 | --- | --- | --- | --- |
 | 1. [Tigers Play Kickball](https://www.scouting.org/cub-scout-activities/tigers-play-kickball/) (Needs to space do!) | TBD | Den |  |
-| 2. [Tiger Greeter](https://www.scouting.org/cub-scout-activities/tiger-greeter/) | Dec | Pack! |  |
+| 2. [Tiger Greeter](https://www.scouting.org/cub-scout-activities/tiger-greeter/) | Dec | Pack | Done! |
 | 3. [Tiger Charades](https://www.scouting.org/cub-scout-activities/tiger-charades/) |  |  |  |
-| 4. [Board Game Collection](https://www.scouting.org/cub-scout-activities/board-game-collection/) | Dec | Den | Fire dept drop off for kids? |
+| 4. [Board Game Collection](https://www.scouting.org/cub-scout-activities/board-game-collection/) | Dec | Den | Done! |
 
 ## Tiger’s Roar - Personal Safety
 https://www.scouting.org/cub-scout-adventures/tigers-roar/
@@ -77,17 +60,8 @@ https://www.scouting.org/cub-scout-adventures/tigers-roar/
 | --- | --- | --- | --- |
 | 1. [Protect Yourself Rules Video Tiger](https://www.scouting.org/cub-scout-activities/protect-yourself-rules-video-tiger/) | At Home | Adult + Cub scout | Done! |
 | 2. [Shout, Run, Tell Relay](https://www.scouting.org/cub-scout-activities/shout-run-tell-relay/) (Needs to space do!) | TBD |  |  |
-| 3. [Smart Phone Emergency Services](https://www.scouting.org/cub-scout-activities/smart-phone-emergency-services/) | Dec | Den |  |
+| 3. [Smart Phone Emergency Services](https://www.scouting.org/cub-scout-activities/smart-phone-emergency-services/) | Dec | Den | Done! |
 | 4. [Emergency Whistle Testing](https://www.scouting.org/cub-scout-activities/emergency-whistle-testing/) | Oct | Den | Done |
-
-## Tiger Circles - Family & Reverence
-https://www.scouting.org/cub-scout-adventures/tiger-circles/
-
-| What | When | Den/Pack | Status |
-| --- | --- | --- | --- |
-| 1. [Tiger Holiday Drawing](https://www.scouting.org/cub-scout-activities/tiger-holiday-drawing/) | Dec | Den |  |
-| 2. [Tiger Veterans Day](https://www.scouting.org/cub-scout-activities/tiger-veterans-day/) | Nov | School | Done! |
-| 3. [Tiger A Note of Kindness](https://www.scouting.org/cub-scout-activities/tiger-a-note-of-kindness/) | Dec | Den |  |
 
 ## Rolling Tigers - Elective
 https://www.scouting.org/cub-scout-adventures/rolling-tigers/
@@ -109,3 +83,26 @@ https://www.scouting.org/cub-scout-adventures/tech-all-around/
 | 2. [The Way It Was](https://www.scouting.org/cub-scout-activities/the-way-it-was/) | Feb | Den |  |
 | 3. [Be Safe with Technology Tiger](https://www.scouting.org/cub-scout-activities/be-safe-with-technology-tiger/) [Needs handbook] | Feb | Den |  |
 | 4. [Smart and Safe with Technology](https://www.scouting.org/cub-scout-activities/smart-and-safe-with-technology/) | At Home | Adult + Cub scout |  |
+
+# Completed Adventures
+
+## Bobcat Tiger - Character & Leadership
+https://www.scouting.org/cub-scout-adventures/bobcat-tiger/
+
+| What | When | Den/Pack | Status |
+| --- | --- | --- | --- |
+| 1. [A Time to Talk – A Time to Listen](https://www.scouting.org/cub-scout-activities/a-time-to-talk-a-time-to-listen/) | October | Den |  Done! |
+| 2. [Tiger Oath and Law Puzzle](https://www.scouting.org/cub-scout-activities/tiger-oath-and-law-puzzle/) | Nov | Den | Done! | 
+| 3. [Tiger Scout Law Bingo](https://www.scouting.org/cub-scout-activities/tiger-scout-law-bingo/) - [Print Bingo Card](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/tiger/Tiger%20Bobcat%203%20Scout%20Law%20Bingo.pdf) | Nov | Den | Done! |
+| 4. [Tiger Simon Says](https://www.scouting.org/cub-scout-activities/tiger-simon-says/) | Dec | Den | Done! |
+| 5. [Do Your Best Handbook Activity](https://www.scouting.org/cub-scout-activities/do-your-best-handbook-activity/) | Nov | Den | Done! |
+| 6. [Child Abuse Protection Review Tiger](https://www.scouting.org/cub-scout-activities/child-abuse-protection-review-tiger/) | At Home | Adult + Cub scout | Done |
+
+## Tiger Circles - Family & Reverence
+https://www.scouting.org/cub-scout-adventures/tiger-circles/
+
+| What | When | Den/Pack | Status |
+| --- | --- | --- | --- |
+| 1. [Tiger Holiday Drawing](https://www.scouting.org/cub-scout-activities/tiger-holiday-drawing/) | Dec | Den | Done! |
+| 2. [Tiger Veterans Day](https://www.scouting.org/cub-scout-activities/tiger-veterans-day/) | Nov | School | Done! |
+| 3. [Tiger A Note of Kindness](https://www.scouting.org/cub-scout-activities/tiger-a-note-of-kindness/) | Dec | Den | Done! |
