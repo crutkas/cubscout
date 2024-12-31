@@ -14,7 +14,7 @@ This is our activity guide for the group.  Still working on getting rest of the 
 
 ## Things worth noting
 
-Pinewood Derby car turn in day is 
+Pinewood Derby car turn in day is January 11th
 
 # Dates for Tiger den meetings
 
