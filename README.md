@@ -2,7 +2,7 @@
 
 This is our activity guide for the group.  Still working on getting rest of the activities planned out!
 
-- [Cub Scout Pack 571 Calendar](https://cubpack571.org/pack-571-calendar)
+
 - [Microsoft volunteer matching for pack](https://microsoft.benevity.org/cause/840-B_5BXRW2RR27/project/2TXQUM5M3D)
 
 ## January 2025 Den meeting plan!
@@ -29,6 +29,20 @@ Pinewood Derby car turn in day is January 11th
 | April 2nd at 7pm | Rachel Carson Elementary |
 | May 7th at 7pm | Rachel Carson Elementary |
 | June 4th at 7pm | Rachel Carson Elementary |
+
+# Dates for pack meetings
+
+[Cub Scout Pack 571 Calendar for most up-to-date infomration](https://cubpack571.org/pack-571-calendar)
+ 
+| When| Where | 
+| --- | --- | 
+| **Jan 22nd at 7pm<br/>- Date shift due to New Years Day**<br/>- Our den will do flag ceremony at January Pack meetup! | **Inglewood Middle school** |
+| Feb 5th (1st Wednesday) at 7pm | Inglewood Middle school |
+| Feb 19th (3rd Wednesday) at 7pm | Inglewood Middle school |
+| March 19th at 7pm | Inglewood Middle school |
+| April 23rd at 7pm | Inglewood Middle school |
+| May 21th at 7pm | Inglewood Middle school |
+| June 6th at 7pm | Beaver Lake Park - Lodge |
 
 ## Tigers in the Wild - Outdoors
 https://www.scouting.org/cub-scout-adventures/tigers-in-the-wild/
