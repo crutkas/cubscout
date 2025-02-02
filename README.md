@@ -35,8 +35,8 @@ Pinewood Derby car turn in day is January 11th
  
 | When| Where | 
 | --- | --- | 
-| **Feb 5th (1st Wednesday) at 7pm** | Inglewood Middle school |
-| Feb 19th (3rd Wednesday) at 7pm | Inglewood Middle school |
+| **Feb 5th (1st Wednesday) at 6:30pm** | Inglewood Middle school |
+| **Feb 19th (3rd Wednesday) at 7pm** | Inglewood Middle school |
 | March 19th at 7pm | Inglewood Middle school |
 | April 23rd at 7pm | Inglewood Middle school |
 | May 21th at 7pm | Inglewood Middle school |
