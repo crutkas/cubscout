@@ -3,13 +3,14 @@
 This is our activity guide for the group.  Still working on getting rest of the activities planned out!
 - [Microsoft volunteer matching for pack](https://microsoft.benevity.org/cause/840-B_5BXRW2RR27/project/2TXQUM5M3D)
 
-## January 2025 Den meeting plan!
+## February 12th, 2025 Den meeting plan!
 | What | 
 | --- |
 | [Tech All Around - 1. Technology at Home](https://www.scouting.org/cub-scout-activities/technology-at-home/) |
 | [Tigers in the Wild - 2. Outdoor Code Puzzle](https://www.scouting.org/cub-scout-activities/outdoor-code-puzzle/) |
 | [Tiger’s Roar - Personal Safety - 2. Shout, Run, Tell Relay](https://www.scouting.org/cub-scout-activities/shout-run-tell-relay/) (Needs to space do!) | 
 | [Team Tiger - Citizenship - 3. Tiger Charades](https://www.scouting.org/cub-scout-activities/tiger-charades/) 
+
 ## Things worth noting
 
 Pinewood Derby car turn in day is January 11th
