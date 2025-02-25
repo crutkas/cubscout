@@ -6,7 +6,8 @@ This is our activity guide for the group.  Still working on getting rest of the 
 ## March 5th, 2025 Den meeting plan!
 | What | 
 | --- |
-| [Adventure - #. TITLE](URL) |
+| [1. Tiger Blob Tag](https://www.scouting.org/cub-scout-activities/tiger-blob-tag/) |
+| [2. Tiger Passing the Ball Relay](https://www.scouting.org/cub-scout-activities/tiger-passing-the-ball-relay/) |
 
 ## Things worth noting
 
@@ -60,7 +61,6 @@ https://www.scouting.org/cub-scout-adventures/team-tiger/
 | 3. [Tiger Charades](https://www.scouting.org/cub-scout-activities/tiger-charades/) | Feb | Den | Done! |
 | 4. [Board Game Collection](https://www.scouting.org/cub-scout-activities/board-game-collection/) | Dec | Den | Done! |
 
-
 ## Rolling Tigers - Elective
 https://www.scouting.org/cub-scout-adventures/rolling-tigers/
 
@@ -71,6 +71,16 @@ https://www.scouting.org/cub-scout-adventures/rolling-tigers/
 | 3. [When to Walk and When to Ride](https://www.scouting.org/cub-scout-activities/when-to-walk-and-when-to-ride/) | At Home | Den | Done! |
 | 4. [Simon Says – Turn Left, Turn Right](https://www.scouting.org/cub-scout-activities/simon-says-turn-left-turn-right/) | Jan | Den | Done! |
 | 5. [I Want To Ride My Bicycle!](https://www.scouting.org/cub-scout-activities/i-want-to-ride-my-bicycle/) (Outside!) | May | Den |  |
+
+## Tiger Tag - Elective
+https://www.scouting.org/cub-scout-adventures/tiger-tag/
+
+| What | When | Den/Pack | Status |
+| --- | --- | --- | --- |
+| 1. [Tiger Blob Tag](https://www.scouting.org/cub-scout-activities/tiger-blob-tag/) | March | Den | In Progress! |
+| 2. [Tiger Passing the Ball Relay](https://www.scouting.org/cub-scout-activities/tiger-passing-the-ball-relay/) | March | Den | In Progress! |
+| 3. [Who is Being a Good Sport](https://www.scouting.org/cub-scout-activities/who-is-being-a-good-sport/) | At Home | Den | Done! |
+| 4. [Tiger Youth Sporting Event](https://www.scouting.org/cub-scout-activities/tiger-youth-sporting-event/) | At Home | Den | Done! |
 
 # Completed Adventures!!!
 
