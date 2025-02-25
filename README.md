@@ -50,7 +50,7 @@ https://www.scouting.org/cub-scout-adventures/tigers-in-the-wild/
 | --- | --- | --- | --- |
 | 1. [Is It a Cub Scout Essential?](https://www.scouting.org/cub-scout-activities/is-it-a-cub-scout-essential/) | Nov | Den | Done! |
 | 2. [Outdoor Code Puzzle](https://www.scouting.org/cub-scout-activities/outdoor-code-puzzle/) | Feb | Den | Done! |
-| 3. [I Spy Natural or Manmade](https://www.scouting.org/cub-scout-activities/i-spy-natural-or-manmade/) - OUTSIDE | April | Den |  |
+| 3. [I Spy Natural or Manmade](https://www.scouting.org/cub-scout-activities/i-spy-natural-or-manmade/) (Outside) | April | Den |  |
 | 4. [My Favorite Animals](https://www.scouting.org/cub-scout-activities/my-favorite-animals/) | Dec | Den | Done! |
 | 5. [Pinecone Bird Feeder](https://www.scouting.org/cub-scout-activities/pinecone-bird-feeder/) | Oct | Den | Done! |
 
@@ -59,20 +59,11 @@ https://www.scouting.org/cub-scout-adventures/team-tiger/
 
 | What | When | Den/Pack | Status |
 | --- | --- | --- | --- |
-| 1. [Tigers Play Kickball](https://www.scouting.org/cub-scout-activities/tigers-play-kickball/) (Needs to space do!) | TBD | Den |  |
+| 1. [Tigers Play Kickball](https://www.scouting.org/cub-scout-activities/tigers-play-kickball/) (Outside!) | April | Den |  |
 | 2. [Tiger Greeter](https://www.scouting.org/cub-scout-activities/tiger-greeter/) | Dec | Pack | Done! |
 | 3. [Tiger Charades](https://www.scouting.org/cub-scout-activities/tiger-charades/) | Feb | Den | Done! |
 | 4. [Board Game Collection](https://www.scouting.org/cub-scout-activities/board-game-collection/) | Dec | Den | Done! |
 
-## Tiger’s Roar - Personal Safety
-https://www.scouting.org/cub-scout-adventures/tigers-roar/
-
-| What | When | Den/Pack | Status |
-| --- | --- | --- | --- |
-| 1. [Protect Yourself Rules Video Tiger](https://www.scouting.org/cub-scout-activities/protect-yourself-rules-video-tiger/) | At Home | Adult + Cub scout | Done! |
-| 2. [Shout, Run, Tell Relay](https://www.scouting.org/cub-scout-activities/shout-run-tell-relay/) (Needs to space do!) | Feb | Den |  Done! |
-| 3. [Smart Phone Emergency Services](https://www.scouting.org/cub-scout-activities/smart-phone-emergency-services/) | Dec | Den | Done! |
-| 4. [Emergency Whistle Testing](https://www.scouting.org/cub-scout-activities/emergency-whistle-testing/) | Oct | Den | Done |
 
 ## Rolling Tigers - Elective
 https://www.scouting.org/cub-scout-adventures/rolling-tigers/
@@ -83,17 +74,7 @@ https://www.scouting.org/cub-scout-adventures/rolling-tigers/
 | 2. [Check My Bike Gear](https://www.scouting.org/cub-scout-activities/check-my-bike-gear/) | Nov | Den | Done! |
 | 3. [When to Walk and When to Ride](https://www.scouting.org/cub-scout-activities/when-to-walk-and-when-to-ride/) | At Home | Den | Done! |
 | 4. [Simon Says – Turn Left, Turn Right](https://www.scouting.org/cub-scout-activities/simon-says-turn-left-turn-right/) | Jan | Den | Done! |
-| 5. [I Want To Ride My Bicycle!](https://www.scouting.org/cub-scout-activities/i-want-to-ride-my-bicycle/) | April? | Den |  |
-
-## Tech All Around - Elective
-https://www.scouting.org/cub-scout-adventures/tech-all-around/
-
-| What | When | Den/Pack | Status |
-| --- | --- | --- | --- |
-| 1. [Technology at Home](https://www.scouting.org/cub-scout-activities/technology-at-home/) | Feb | Den | Done! |
-| 2. [The Way It Was](https://www.scouting.org/cub-scout-activities/the-way-it-was/) | Jan | Den | Done! |
-| 3. [Be Safe with Technology Tiger](https://www.scouting.org/cub-scout-activities/be-safe-with-technology-tiger/) [Needs handbook] | Feb | Den | Done! |
-| 4. [Smart and Safe with Technology](https://www.scouting.org/cub-scout-activities/smart-and-safe-with-technology/) | At Home | Adult + Cub scout | Done! |
+| 5. [I Want To Ride My Bicycle!](https://www.scouting.org/cub-scout-activities/i-want-to-ride-my-bicycle/) (Outside!) | May | Den |  |
 
 # Completed Adventures!!!
 
@@ -127,3 +108,23 @@ https://www.scouting.org/cub-scout-adventures/tiger-bites/
 | 2. [Scout Oath and Law Hand Washing](https://www.scouting.org/cub-scout-activities/scout-oath-and-law-hand-washing/)  | At Home | Adult + Cub scout | Done! |
 | **3. [Tiger Red Light Green Light](https://www.scouting.org/cub-scout-activities/tiger-red-light-green-light/)** | Jan | Den | Done! |
 | 4. [Tiger Time to Sleep](https://www.scouting.org/cub-scout-activities/tiger-time-to-sleep/) | At Home | Adult + Cub scout | Done! |
+
+## Tech All Around - Elective
+https://www.scouting.org/cub-scout-adventures/tech-all-around/
+
+| What | When | Den/Pack | Status |
+| --- | --- | --- | --- |
+| 1. [Technology at Home](https://www.scouting.org/cub-scout-activities/technology-at-home/) | Feb | Den | Done! |
+| 2. [The Way It Was](https://www.scouting.org/cub-scout-activities/the-way-it-was/) | Jan | Den | Done! |
+| 3. [Be Safe with Technology Tiger](https://www.scouting.org/cub-scout-activities/be-safe-with-technology-tiger/) [Needs handbook] | Feb | Den | Done! |
+| 4. [Smart and Safe with Technology](https://www.scouting.org/cub-scout-activities/smart-and-safe-with-technology/) | At Home | Adult + Cub scout | Done! |
+
+## Tiger’s Roar - Personal Safety
+https://www.scouting.org/cub-scout-adventures/tigers-roar/
+
+| What | When | Den/Pack | Status |
+| --- | --- | --- | --- |
+| 1. [Protect Yourself Rules Video Tiger](https://www.scouting.org/cub-scout-activities/protect-yourself-rules-video-tiger/) | At Home | Adult + Cub scout | Done! |
+| 2. [Shout, Run, Tell Relay](https://www.scouting.org/cub-scout-activities/shout-run-tell-relay/) (Needs to space do!) | Feb | Den |  Done! |
+| 3. [Smart Phone Emergency Services](https://www.scouting.org/cub-scout-activities/smart-phone-emergency-services/) | Dec | Den | Done! |
+| 4. [Emergency Whistle Testing](https://www.scouting.org/cub-scout-activities/emergency-whistle-testing/) | Oct | Den | Done |
