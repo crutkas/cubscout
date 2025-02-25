@@ -6,11 +6,7 @@ This is our activity guide for the group.  Still working on getting rest of the 
 ## March 5th, 2025 Den meeting plan!
 | What | 
 | --- |
-| [Tech All Around - 1. Technology at Home](https://www.scouting.org/cub-scout-activities/technology-at-home/) [Needs handbook] |
-| [Tech All Around - 3. Be Safe with Technology Tiger](https://www.scouting.org/cub-scout-activities/be-safe-with-technology-tiger/) [Needs handbook] |
-| [Tigers in the Wild - 2. Outdoor Code Puzzle](https://www.scouting.org/cub-scout-activities/outdoor-code-puzzle/) |
-| [Tiger’s Roar - Personal Safety - 2. Shout, Run, Tell Relay](https://www.scouting.org/cub-scout-activities/shout-run-tell-relay/) (Needs to space do!) | 
-| [Team Tiger - Citizenship - 3. Tiger Charades](https://www.scouting.org/cub-scout-activities/tiger-charades/) 
+| [Adventure - #. TITLE](URL) |
 
 ## Things worth noting
 
