@@ -1,13 +1,13 @@
-# Tiger Den - Cub scouts 2024
+# Tiger Den - Cub scouts 2024 and 2025
 
 This is our activity guide for the group.  Still working on getting rest of the activities planned out!
 - [Microsoft volunteer matching for pack](https://microsoft.benevity.org/cause/840-B_5BXRW2RR27/project/2TXQUM5M3D)
 
-## March 5th, 2025 Den meeting plan!
+## April 2nd, 2025 Den meeting plan!
 | What | 
 | --- |
-| [1. Tiger Blob Tag](https://www.scouting.org/cub-scout-activities/tiger-blob-tag/) |
-| [2. Tiger Passing the Ball Relay](https://www.scouting.org/cub-scout-activities/tiger-passing-the-ball-relay/) |
+| Tigers in the Wild - [I Spy Natural or Manmade](https://www.scouting.org/cub-scout-activities/i-spy-natural-or-manmade/) |
+| Team Tiger - [Tigers Play Kickball](https://www.scouting.org/cub-scout-activities/tigers-play-kickball/) |
 
 ## Things worth noting
 
@@ -22,8 +22,8 @@ Pinewood Derby car turn in day is January 11th
 | Dec 4th | Rachel Carson Elementary |
 | Jan 8th (2nd Wednesday) at 7pm<br/>- Date shift due to New Years Day<br/>- Our den will do flag ceremony at January Pack meetup! | Rachel Carson Elementary |
 | Feb 12th (2nd Wednesday) at 7pm<br/>- Date shift due to Pinewood Derby | **Rachel Carson Elementary** |
-| **March 5th at 7pm** | Rachel Carson Elementary |
-| April 2nd at 7pm | Rachel Carson Elementary |
+| March 5th at 7pm | Rachel Carson Elementary |
+| **April 2nd at 7pm** | Rachel Carson Elementary |
 | May 7th at 7pm | Rachel Carson Elementary |
 | June 4th at 7pm | Rachel Carson Elementary |
 
@@ -35,8 +35,8 @@ Pinewood Derby car turn in day is January 11th
 | --- | --- | 
 | Feb 5th (1st Wednesday) at 6:30pm | Inglewood Middle school |
 | Feb 19th (3rd Wednesday) at 7pm | Inglewood Middle school |
-| **March 19th at 7pm** | Inglewood Middle school |
-| April 23rd at 7pm | Inglewood Middle school |
+| March 19th at 7pm | Inglewood Middle school |
+| **April 23rd at 7pm** | Inglewood Middle school |
 | May 21th at 7pm | Inglewood Middle school |
 | June 6th at 7pm | Beaver Lake Park - Lodge |
 
@@ -47,7 +47,7 @@ https://www.scouting.org/cub-scout-adventures/tigers-in-the-wild/
 | --- | --- | --- | --- |
 | 1. [Is It a Cub Scout Essential?](https://www.scouting.org/cub-scout-activities/is-it-a-cub-scout-essential/) | Nov | Den | Done! |
 | 2. [Outdoor Code Puzzle](https://www.scouting.org/cub-scout-activities/outdoor-code-puzzle/) | Feb | Den | Done! |
-| 3. [I Spy Natural or Manmade](https://www.scouting.org/cub-scout-activities/i-spy-natural-or-manmade/) (Outside) | April | Den |  |
+| 3. [I Spy Natural or Manmade](https://www.scouting.org/cub-scout-activities/i-spy-natural-or-manmade/) (Outside) | April | Den | In Progress! |
 | 4. [My Favorite Animals](https://www.scouting.org/cub-scout-activities/my-favorite-animals/) | Dec | Den | Done! |
 | 5. [Pinecone Bird Feeder](https://www.scouting.org/cub-scout-activities/pinecone-bird-feeder/) | Oct | Den | Done! |
 
@@ -56,7 +56,7 @@ https://www.scouting.org/cub-scout-adventures/team-tiger/
 
 | What | When | Den/Pack | Status |
 | --- | --- | --- | --- |
-| 1. [Tigers Play Kickball](https://www.scouting.org/cub-scout-activities/tigers-play-kickball/) (Outside!) | April | Den |  |
+| 1. [Tigers Play Kickball](https://www.scouting.org/cub-scout-activities/tigers-play-kickball/) (Outside!) | April | Den | In Progress! |
 | 2. [Tiger Greeter](https://www.scouting.org/cub-scout-activities/tiger-greeter/) | Dec | Pack | Done! |
 | 3. [Tiger Charades](https://www.scouting.org/cub-scout-activities/tiger-charades/) | Feb | Den | Done! |
 | 4. [Board Game Collection](https://www.scouting.org/cub-scout-activities/board-game-collection/) | Dec | Den | Done! |
@@ -77,8 +77,8 @@ https://www.scouting.org/cub-scout-adventures/tiger-tag/
 
 | What | When | Den/Pack | Status |
 | --- | --- | --- | --- |
-| 1. [Tiger Blob Tag](https://www.scouting.org/cub-scout-activities/tiger-blob-tag/) | March | Den | In Progress! |
-| 2. [Tiger Passing the Ball Relay](https://www.scouting.org/cub-scout-activities/tiger-passing-the-ball-relay/) | March | Den | In Progress! |
+| 1. [Tiger Blob Tag](https://www.scouting.org/cub-scout-activities/tiger-blob-tag/) | March | Den | Done! |
+| 2. [Tiger Passing the Ball Relay](https://www.scouting.org/cub-scout-activities/tiger-passing-the-ball-relay/) | March | Den | Done! |
 | 3. [Who is Being a Good Sport](https://www.scouting.org/cub-scout-activities/who-is-being-a-good-sport/) | At Home | Den | Done! |
 | 4. [Tiger Youth Sporting Event](https://www.scouting.org/cub-scout-activities/tiger-youth-sporting-event/) | At Home | Den | Done! |
 
