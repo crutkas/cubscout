@@ -52,7 +52,7 @@ https://www.scouting.org/cub-scout-adventures/rolling-tigers/
 
 # Completed Adventures!!!
 ## Tigers in the Wild - Outdoors
-https://www.scouting.org/cub-scout-adventures/tigers-in-the-wild/
+https://www.scouting.org/cub-scout-adventures/tigers-in-the-wild/ - Marked in system
 
 | What | When | Den/Pack | Status |
 | --- | --- | --- | --- |
@@ -62,8 +62,9 @@ https://www.scouting.org/cub-scout-adventures/tigers-in-the-wild/
 | 4. [My Favorite Animals](https://www.scouting.org/cub-scout-activities/my-favorite-animals/) | Dec | Den | Done! |
 | 5. [Pinecone Bird Feeder](https://www.scouting.org/cub-scout-activities/pinecone-bird-feeder/) | Oct | Den | Done! |
 
-## Team Tiger - Citizenship
-https://www.scouting.org/cub-scout-adventures/team-tiger/
+## Team Tiger - Citizenship 
+https://www.scouting.org/cub-scout-adventures/team-tiger/ - Marked in system
+
 
 | What | When | Den/Pack | Status |
 | --- | --- | --- | --- |
@@ -73,7 +74,7 @@ https://www.scouting.org/cub-scout-adventures/team-tiger/
 | 4. [Board Game Collection](https://www.scouting.org/cub-scout-activities/board-game-collection/) | Dec | Den | Done! |
 
 ## Bobcat Tiger - Character & Leadership
-https://www.scouting.org/cub-scout-adventures/bobcat-tiger/
+https://www.scouting.org/cub-scout-adventures/bobcat-tiger/ - Marked in system
 
 | What | When | Den/Pack | Status |
 | --- | --- | --- | --- |
