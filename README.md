@@ -40,7 +40,7 @@ Pinewood Derby car turn in day is January 11th
 | June 6th at 7pm | Beaver Lake Park - Lodge |
 
 ## Rolling Tigers - Elective
-https://www.scouting.org/cub-scout-adventures/rolling-tigers/
+https://www.scouting.org/cub-scout-adventures/rolling-tigers/- Marked in system
 
 | What | When | Den/Pack | Status |
 | --- | --- | --- | --- |
@@ -105,7 +105,7 @@ https://www.scouting.org/cub-scout-adventures/tiger-bites/ - Marked in system
 | 4. [Tiger Time to Sleep](https://www.scouting.org/cub-scout-activities/tiger-time-to-sleep/) | At Home | Adult + Cub scout | Done! |
 
 ## Tech All Around - Elective
-https://www.scouting.org/cub-scout-adventures/tech-all-around/
+https://www.scouting.org/cub-scout-adventures/tech-all-around/- Marked in system
 
 | What | When | Den/Pack | Status |
 | --- | --- | --- | --- |
@@ -125,7 +125,7 @@ https://www.scouting.org/cub-scout-adventures/tigers-roar/ - Marked in system
 | 4. [Emergency Whistle Testing](https://www.scouting.org/cub-scout-activities/emergency-whistle-testing/) | Oct | Den | Done |
 
 ## Tiger Tag - Elective
-https://www.scouting.org/cub-scout-adventures/tiger-tag/
+https://www.scouting.org/cub-scout-adventures/tiger-tag/ - Marked in system
 
 | What | When | Den/Pack | Status |
 | --- | --- | --- | --- |
