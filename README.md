@@ -86,7 +86,7 @@ https://www.scouting.org/cub-scout-adventures/bobcat-tiger/ - Marked in system
 | 6. [Child Abuse Protection Review Tiger](https://www.scouting.org/cub-scout-activities/child-abuse-protection-review-tiger/) | At Home | Adult + Cub scout | Done |
 
 ## Tiger Circles - Family & Reverence
-https://www.scouting.org/cub-scout-adventures/tiger-circles/
+https://www.scouting.org/cub-scout-adventures/tiger-circles/ - Marked in system
 
 | What | When | Den/Pack | Status |
 | --- | --- | --- | --- |
@@ -95,7 +95,7 @@ https://www.scouting.org/cub-scout-adventures/tiger-circles/
 | 3. [Tiger A Note of Kindness](https://www.scouting.org/cub-scout-activities/tiger-a-note-of-kindness/) | Dec | Den | Done! |
 
 ## Tiger Bites - Personal Fitness
-https://www.scouting.org/cub-scout-adventures/tiger-bites/
+https://www.scouting.org/cub-scout-adventures/tiger-bites/ - Marked in system
 
 | What | When | Den/Pack | Status |
 | --- | --- | --- | --- |
@@ -115,7 +115,7 @@ https://www.scouting.org/cub-scout-adventures/tech-all-around/
 | 4. [Smart and Safe with Technology](https://www.scouting.org/cub-scout-activities/smart-and-safe-with-technology/) | At Home | Adult + Cub scout | Done! |
 
 ## Tiger’s Roar - Personal Safety
-https://www.scouting.org/cub-scout-adventures/tigers-roar/
+https://www.scouting.org/cub-scout-adventures/tigers-roar/ - Marked in system
 
 | What | When | Den/Pack | Status |
 | --- | --- | --- | --- |
